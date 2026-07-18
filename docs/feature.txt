@@ -1,0 +1,7 @@
+NotebookLite Key Features List
+
+1. Zero Server Overhead: RAG occurs completely client-side in the browser.
+2. In-Context Grounding: Entire document contexts are sent directly to the Gemini API, bypassing vector slice omissions.
+3. Live & Offline Dual-Engine: Uses local search when offline, and routes queries directly to Gemini 3.5 Flash when an API key is entered.
+4. Auto-Preloading: Reads file paths specified in the repository configuration array automatically.
+5. Interactive Citations: Automatically generates citation badges linked to the original document segments.
