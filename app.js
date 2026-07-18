@@ -5,7 +5,7 @@
 // List all files in your repository that you want to preload automatically.
 // ==========================================================================
 const REPO_SOURCES = [
-  'docs/welcome_guide.md',
+  'docs/citcase.pdf',
   'docs/features_list.txt'
 ];
 
